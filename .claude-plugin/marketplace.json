@@ -1,0 +1,5 @@
+{
+  "name": "cc-sunflower-rain-theme",
+  "owner": { "name": "tt6247" },
+  "plugins": [{ "name": "sunflower-rain", "source": "./" }]
+}
